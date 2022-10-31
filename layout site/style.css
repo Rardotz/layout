@@ -1,0 +1,79 @@
+.cabecalho{
+    background-image: url(img/fotop.jpg);
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.galeria{
+    height: 40px;
+    display: flex;
+   
+   
+}
+
+.ab{
+    height: 80px;
+    width: 300px;
+}
+
+.botao{
+    font: bold;
+    font-size: 30px;
+    padding: 25px 50px;
+    height: 10px;
+    border-radius: 25px;
+    cursor: pointer;
+    border: 0;
+   display: flex;
+   align-items: center;
+}
+
+
+
+
+
+#at{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    
+}
+.galeria{
+   
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+
+#recursos{
+   
+    display: flex;
+    justify-content: center;
+    
+}
+
+.caixa{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    background-color: rgba(255,255,255,0.5);
+    
+}
+
+.botoes{
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+#apa{
+    color: white;
+    font-size: 40px;
+}
